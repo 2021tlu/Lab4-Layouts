@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab 4 - Layouts</string>
+    <string name="next_text">Go next!</string>
+    <string name="a_corners">Click Top Left!</string>
+    <string name="hello">Hello!</string>
+</resources>
